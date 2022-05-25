@@ -1,0 +1,1457 @@
+[
+    {
+      "name": "Acura",
+      "country": "Canada",
+      "code": "2HH"
+    },
+    {
+      "name": "Alexander Dennis",
+      "country": "United Kingdom",
+      "code": "SFD"
+    },
+    {
+      "name": "Alfa Romeo",
+      "country": "Italy",
+      "code": "ZAR"
+    },
+    {
+      "name": "Alpina",
+      "country": "Germany",
+      "code": "WAP"
+    },
+    {
+      "name": "Aston Martin",
+      "country": "United Kingdom",
+      "code": "SCF"
+    },
+    {
+      "name": "Audi",
+      "country": "Germany",
+      "code": "WAU"
+    },
+    {
+      "name": "Audi",
+      "country": "Hungary",
+      "code": "TRU"
+    },
+    {
+      "name": "Audi",
+      "country": "Brazil",
+      "code": "99A"
+    },
+    {
+      "name": "AvtoVAZ (Lada)",
+      "country": "Russia",
+      "code": "XTA"
+    },
+    {
+      "name": "Beijing Benz",
+      "country": "China",
+      "code": "LE4"
+    },
+    {
+      "name": "Beijing Hyundai",
+      "country": "China",
+      "code": "LBE"
+    },
+    {
+      "name": "BMW",
+      "country": "Germany",
+      "code": "WBA"
+    },
+    {
+      "name": "BMW",
+      "country": "Germany",
+      "code": "WBX"
+    },
+    {
+      "name": "BMW",
+      "country": "Malaysia",
+      "code": "PM1"
+    },
+    {
+      "name": "BMW",
+      "country": "United States",
+      "code": "4US"
+    },
+    {
+      "name": "BMW",
+      "country": "United States",
+      "code": "5U"
+    },
+    {
+      "name": "BMW",
+      "country": "Brazil",
+      "code": "98M"
+    },
+    {
+      "name": "BMW Brilliance",
+      "country": "China",
+      "code": "LBV"
+    },
+    {
+      "name": "BMW M",
+      "country": "Germany",
+      "code": "WBS"
+    },
+    {
+      "name": "Bufori",
+      "country": "Malaysia",
+      "code": "PM9"
+    },
+    {
+      "name": "Bugatti",
+      "country": "France",
+      "code": "VF9"
+    },
+    {
+      "name": "Bugatti",
+      "country": "Italy",
+      "code": "ZA9"
+    },
+    {
+      "name": "Buick",
+      "country": "United States",
+      "code": "1G4"
+    },
+    {
+      "name": "BYD Auto",
+      "country": "China",
+      "code": "LGX"
+    },
+    {
+      "name": "BYD Industry",
+      "country": "China",
+      "code": "LC0"
+    },
+    {
+      "name": "CAOA / Hyundai",
+      "country": "Brazil",
+      "code": "95P"
+    },
+    {
+      "name": "Changan Ford",
+      "country": "China",
+      "code": "LVS"
+    },
+    {
+      "name": "Changan Mazda",
+      "country": "China",
+      "code": "LVR"
+    },
+    {
+      "name": "Changan PSA (DS Automobiles)",
+      "country": "China",
+      "code": "LPA"
+    },
+    {
+      "name": "Changan Suzuki",
+      "country": "China",
+      "code": "LS5"
+    },
+    {
+      "name": "Chery",
+      "country": "China",
+      "code": "LVV"
+    },
+    {
+      "name": "Chery",
+      "country": "Brazil",
+      "code": "98R"
+    },
+    {
+      "name": "Chery",
+      "country": "Uruguay",
+      "code": "9UJ"
+    },
+    {
+      "name": "Chery Jaguar Land Rover",
+      "country": "China",
+      "code": "L2C"
+    },
+    {
+      "name": "Chevrolet",
+      "country": "United States",
+      "code": "1G1"
+    },
+    {
+      "name": "Chevrolet",
+      "country": "United States",
+      "code": "1GC"
+    },
+    {
+      "name": "Chevrolet",
+      "country": "Canada",
+      "code": "2G1"
+    },
+    {
+      "name": "Chevrolet",
+      "country": "Australia",
+      "code": "6G1"
+    },
+    {
+      "name": "Chevrolet incomplete vehicles",
+      "country": "United States",
+      "code": "1GB"
+    },
+    {
+      "name": "Chrysler",
+      "country": "United States",
+      "code": "1C"
+    },
+    {
+      "name": "Citro�n",
+      "country": "France",
+      "code": "VF7"
+    },
+    {
+      "name": "Citro�n",
+      "country": "Spain",
+      "code": "VS7"
+    },
+    {
+      "name": "Citro�n",
+      "country": "Argentina",
+      "code": "8BC"
+    },
+    {
+      "name": "Citro�n",
+      "country": "Brazil",
+      "code": 935
+    },
+    {
+      "name": "Continental",
+      "country": "United States",
+      "code": "1MR"
+    },
+    {
+      "name": "Dacia",
+      "country": "Romania",
+      "code": "UU"
+    },
+    {
+      "name": "Daewoo / GM Korea",
+      "country": "South Korea",
+      "code": "KL"
+    },
+    {
+      "name": "DAF Trucks",
+      "country": "Netherlands",
+      "code": "XLR"
+    },
+    {
+      "name": "Daimler Chrysler AG / Daimler AG",
+      "country": "Germany",
+      "code": "WDC, WDD, WMX"
+    },
+    {
+      "name": "DeLorean",
+      "country": "United Kingdom",
+      "code": "SCE"
+    },
+    {
+      "name": "Dodge",
+      "country": "United States",
+      "code": "1B"
+    },
+    {
+      "name": "Dongfeng Fengshen",
+      "country": "China",
+      "code": "LGJ"
+    },
+    {
+      "name": "Dongfeng Honda",
+      "country": "China",
+      "code": "LVH"
+    },
+    {
+      "name": "Dongfeng Nissan",
+      "country": "China",
+      "code": "LGB"
+    },
+    {
+      "name": "Dongfeng Peugeot-Citro�n",
+      "country": "China",
+      "code": "LDC"
+    },
+    {
+      "name": "Dongfeng Yueda Kia",
+      "country": "China",
+      "code": "LJD"
+    },
+    {
+      "name": "DS Automobiles",
+      "country": "France",
+      "code": "VR1"
+    },
+    {
+      "name": "EvoBus",
+      "country": "Germany",
+      "code": "WEB"
+    },
+    {
+      "name": "FAW Car",
+      "country": "China",
+      "code": "LFP"
+    },
+    {
+      "name": "FAW Haima",
+      "country": "China",
+      "code": "LH1"
+    },
+    {
+      "name": "FAW Toyota",
+      "country": "China",
+      "code": "LFM"
+    },
+    {
+      "name": "FAW Toyota (Tianjin)",
+      "country": "China",
+      "code": "LTV"
+    },
+    {
+      "name": "FAW-Volkswagen",
+      "country": "China",
+      "code": "LFV"
+    },
+    {
+      "name": "Ferrari",
+      "country": "Italy",
+      "code": "ZFF"
+    },
+    {
+      "name": "Fiat",
+      "country": "Italy",
+      "code": "ZFA"
+    },
+    {
+      "name": "Fiat",
+      "country": "Argentina",
+      "code": "8AP"
+    },
+    {
+      "name": "Fiat Automobiles / Mazda",
+      "country": "Japan",
+      "code": "JC1"
+    },
+    {
+      "name": "Fiat Autom�veis",
+      "country": "Brazil",
+      "code": "9BD"
+    },
+    {
+      "name": "Fiat Professional",
+      "country": "Brazil",
+      "code": "93W"
+    },
+    {
+      "name": "Ford",
+      "country": "South Africa",
+      "code": "AFA"
+    },
+    {
+      "name": "Ford",
+      "country": "Malaysia",
+      "code": "PR8"
+    },
+    {
+      "name": "Ford",
+      "country": "United States",
+      "code": "1F"
+    },
+    {
+      "name": "Ford",
+      "country": "United States",
+      "code": "1ZV"
+    },
+    {
+      "name": "Ford",
+      "country": "Canada",
+      "code": "2F"
+    },
+    {
+      "name": "Ford",
+      "country": "Mexico",
+      "code": "3F"
+    },
+    {
+      "name": "Ford",
+      "country": "Australia",
+      "code": "6F"
+    },
+    {
+      "name": "Ford",
+      "country": "New Zealand",
+      "code": "7A5"
+    },
+    {
+      "name": "Ford",
+      "country": "Argentina",
+      "code": "8AF"
+    },
+    {
+      "name": "Ford",
+      "country": "Brazil",
+      "code": "9BF"
+    },
+    {
+      "name": "Ford of Europe",
+      "country": "Germany",
+      "code": "WF0"
+    },
+    {
+      "name": "Ford Otosan",
+      "country": "Turkey",
+      "code": "NM0"
+    },
+    {
+      "name": "GAC Fiat",
+      "country": "China",
+      "code": "LWV"
+    },
+    {
+      "name": "GAC Toyota",
+      "country": "China",
+      "code": "LVG"
+    },
+    {
+      "name": "GAC Trumpchi",
+      "country": "China",
+      "code": "LMG"
+    },
+    {
+      "name": "Geely",
+      "country": "China",
+      "code": "L6T"
+    },
+    {
+      "name": "Geely",
+      "country": "China",
+      "code": "LB3"
+    },
+    {
+      "name": "General Motors",
+      "country": "United States",
+      "code": "1G"
+    },
+    {
+      "name": "General Motors",
+      "country": "Canada",
+      "code": "2Gx"
+    },
+    {
+      "name": "General Motors",
+      "country": "Mexico",
+      "code": "3G"
+    },
+    {
+      "name": "General Motors",
+      "country": "Australia",
+      "code": "6G"
+    },
+    {
+      "name": "General Motors",
+      "country": "Argentina",
+      "code": "8AG"
+    },
+    {
+      "name": "General Motors",
+      "country": "Brazil",
+      "code": "9BG"
+    },
+    {
+      "name": "GMC incomplete vehicles",
+      "country": "United States",
+      "code": "1GD"
+    },
+    {
+      "name": "Great Wall",
+      "country": "China",
+      "code": "LGW"
+    },
+    {
+      "name": "Guangzhou Honda",
+      "country": "China",
+      "code": "LHG"
+    },
+    {
+      "name": "Hicom",
+      "country": "Malaysia",
+      "code": "PML"
+    },
+    {
+      "name": "Holden",
+      "country": "Australia",
+      "code": "6H"
+    },
+    {
+      "name": "Honda",
+      "country": "Japan",
+      "code": "JHL"
+    },
+    {
+      "name": "Honda",
+      "country": "Japan",
+      "code": "JHM"
+    },
+    {
+      "name": "Honda",
+      "country": "Thailand",
+      "code": "MRH"
+    },
+    {
+      "name": "Honda",
+      "country": "Malaysia",
+      "code": "PMH"
+    },
+    {
+      "name": "Honda",
+      "country": "United Kingdom",
+      "code": "SHH"
+    },
+    {
+      "name": "Honda",
+      "country": "United Kingdom",
+      "code": "SHS"
+    },
+    {
+      "name": "Honda",
+      "country": "United States",
+      "code": "1HG"
+    },
+    {
+      "name": "Honda",
+      "country": "Canada",
+      "code": "2HG"
+    },
+    {
+      "name": "Honda",
+      "country": "Canada",
+      "code": "2HJ"
+    },
+    {
+      "name": "Honda",
+      "country": "Canada",
+      "code": "2HK"
+    },
+    {
+      "name": "Honda",
+      "country": "Mexico",
+      "code": "3HG"
+    },
+    {
+      "name": "Honda",
+      "country": "Mexico",
+      "code": "3HM"
+    },
+    {
+      "name": "Honda",
+      "country": "United States",
+      "code": "4S6"
+    },
+    {
+      "name": "Honda",
+      "country": "United States",
+      "code": "5FN"
+    },
+    {
+      "name": "Honda",
+      "country": "United States",
+      "code": "5J6"
+    },
+    {
+      "name": "Honda",
+      "country": "New Zealand",
+      "code": "7A3"
+    },
+    {
+      "name": "Honda",
+      "country": "Argentina",
+      "code": "8C3"
+    },
+    {
+      "name": "Honda",
+      "country": "Brazil",
+      "code": "93H"
+    },
+    {
+      "name": "Honda Boon Siew",
+      "country": "Malaysia",
+      "code": "PMK"
+    },
+    {
+      "name": "Honda Motorcycles",
+      "country": "Brazil",
+      "code": "9C2"
+    },
+    {
+      "name": "Hyundai",
+      "country": "South Korea",
+      "code": "KMH"
+    },
+    {
+      "name": "Hyundai",
+      "country": "Malaysia",
+      "code": "PP3"
+    },
+    {
+      "name": "Hyundai",
+      "country": "Czech Republic",
+      "code": "TMA"
+    },
+    {
+      "name": "Hyundai",
+      "country": "Canada",
+      "code": "2HM"
+    },
+    {
+      "name": "Hyundai",
+      "country": "United States",
+      "code": "5NM"
+    },
+    {
+      "name": "Hyundai",
+      "country": "United States",
+      "code": "5NP"
+    },
+    {
+      "name": "Hyundai",
+      "country": "Brazil",
+      "code": "9BH"
+    },
+    {
+      "name": "Hyundai Inokom",
+      "country": "Malaysia",
+      "code": "PL8"
+    },
+    {
+      "name": "Hyundai / Kia",
+      "country": "United States",
+      "code": "5X"
+    },
+    {
+      "name": "Irmscher",
+      "country": "Germany",
+      "code": "WJR"
+    },
+    {
+      "name": "Isuzu",
+      "country": "Japan",
+      "code": "JA"
+    },
+    {
+      "name": "Iveco",
+      "country": "Germany",
+      "code": "WJM"
+    },
+    {
+      "name": "Iveco",
+      "country": "Italy",
+      "code": "ZCF"
+    },
+    {
+      "name": "Iveco",
+      "country": "Argentina",
+      "code": "8AT"
+    },
+    {
+      "name": "Iveco",
+      "country": "Brazil",
+      "code": "93Z"
+    },
+    {
+      "name": "Iveco Unic",
+      "country": "France",
+      "code": "VF5"
+    },
+    {
+      "name": "IvecoBus",
+      "country": "France",
+      "code": "VFE"
+    },
+    {
+      "name": "IvecoBus",
+      "country": "Italy",
+      "code": "ZGA"
+    },
+    {
+      "name": "JAC",
+      "country": "China",
+      "code": "LJ1"
+    },
+    {
+      "name": "Jaguar",
+      "country": "United Kingdom",
+      "code": "SAJ"
+    },
+    {
+      "name": "Jaguar Land Rover",
+      "country": "Brazil",
+      "code": "99J"
+    },
+    {
+      "name": "Japanese Imports",
+      "country": "Australia",
+      "code": "6U9"
+    },
+    {
+      "name": "Jeep",
+      "country": "United States",
+      "code": "1J"
+    },
+    {
+      "name": "Jeep",
+      "country": "Brazil",
+      "code": 988
+    },
+    {
+      "name": "Johnston sweeper (Bucher)",
+      "country": "UK/Switzerland",
+      "code": "TEB"
+    },
+    {
+      "name": "Karl K�ssbohrer Fahrzeugwerke",
+      "country": "Germany",
+      "code": "WKK"
+    },
+    {
+      "name": "Kia",
+      "country": "South Korea",
+      "code": "KN"
+    },
+    {
+      "name": "Kia",
+      "country": "Myanmar",
+      "code": "MS0"
+    },
+    {
+      "name": "Kia",
+      "country": "Malaysia",
+      "code": "PNA"
+    },
+    {
+      "name": "Kia",
+      "country": "Slovakia",
+      "code": "U5Y"
+    },
+    {
+      "name": "Kia",
+      "country": "Mexico",
+      "code": "3KP"
+    },
+    {
+      "name": "Kia",
+      "country": "Uruguay",
+      "code": "9UW"
+    },
+    {
+      "name": "KIBO Motorcycles",
+      "country": "Kenya",
+      "code": "BF9"
+    },
+    {
+      "name": "King Long",
+      "country": "China",
+      "code": "LA6"
+    },
+    {
+      "name": "Koenigsegg Automotive",
+      "country": "Sweden",
+      "code": "YT9"
+    },
+    {
+      "name": "Lamborghini",
+      "country": "Italy",
+      "code": "ZHW"
+    },
+    {
+      "name": "Lancia",
+      "country": "Italy",
+      "code": "ZLA"
+    },
+    {
+      "name": "Land Rover",
+      "country": "United Kingdom",
+      "code": "SAL"
+    },
+    {
+      "name": "Les Contenants Durabac",
+      "country": "Canada",
+      "code": "2L9"
+    },
+    {
+      "name": "Lifan",
+      "country": "China",
+      "code": "LLV"
+    },
+    {
+      "name": "Lifan",
+      "country": "Uruguay",
+      "code": "9UK"
+    },
+    {
+      "name": "Lincoln",
+      "country": "United States",
+      "code": "1L"
+    },
+    {
+      "name": "Lincoln",
+      "country": "United States",
+      "code": "5L"
+    },
+    {
+      "name": "Lincoln",
+      "country": "Canada",
+      "code": "2LN"
+    },
+    {
+      "name": "Lotus Cars",
+      "country": "United Kingdom",
+      "code": "SCC"
+    },
+    {
+      "name": "MAN",
+      "country": "Germany",
+      "code": "WMA"
+    },
+    {
+      "name": "Maserati",
+      "country": "Italy",
+      "code": "ZAM"
+    },
+    {
+      "name": "Matra / Talbot / Simca",
+      "country": "France",
+      "code": "VF8"
+    },
+    {
+      "name": "Mazda",
+      "country": "Japan",
+      "code": "JM1"
+    },
+    {
+      "name": "Mazda",
+      "country": "Japan",
+      "code": "JM6"
+    },
+    {
+      "name": "Mazda",
+      "country": "Thailand",
+      "code": "MM0"
+    },
+    {
+      "name": "Mazda",
+      "country": "Malaysia",
+      "code": "PP1"
+    },
+    {
+      "name": "Mazda",
+      "country": "United States",
+      "code": "1YV"
+    },
+    {
+      "name": "Mazda",
+      "country": "United States",
+      "code": "4F"
+    },
+    {
+      "name": "Mazda for Oceania export",
+      "country": "Japan",
+      "code": "JM0"
+    },
+    {
+      "name": "McLaren Automotive",
+      "country": "United Kingdom",
+      "code": "SBM"
+    },
+    {
+      "name": "Mercedes Benz",
+      "country": "Germany",
+      "code": "WDB"
+    },
+    {
+      "name": "Mercedes Benz",
+      "country": "United States",
+      "code": "4J"
+    },
+    {
+      "name": "Mercedes Benz",
+      "country": "United States",
+      "code": 55
+    },
+    {
+      "name": "Mercedes Benz",
+      "country": "Argentina",
+      "code": "8AC"
+    },
+    {
+      "name": "Mercedes Benz",
+      "country": "Brazil",
+      "code": "9BM"
+    },
+    {
+      "name": "Mercury",
+      "country": "United States",
+      "code": "1M"
+    },
+    {
+      "name": "Mercury",
+      "country": "United States",
+      "code": "4M"
+    },
+    {
+      "name": "Mercury",
+      "country": "Canada",
+      "code": "2M"
+    },
+    {
+      "name": "Micro Compact Car",
+      "country": "Switzerland",
+      "code": "TCC"
+    },
+    {
+      "name": "Mini",
+      "country": "Germany",
+      "code": "WMW"
+    },
+    {
+      "name": "Mitsubishi",
+      "country": "Japan",
+      "code": "JMB"
+    },
+    {
+      "name": "Mitsubishi",
+      "country": "Thailand",
+      "code": "MMB"
+    },
+    {
+      "name": "Mitsubishi",
+      "country": "Australia",
+      "code": "6MM"
+    },
+    {
+      "name": "Mitsubishi",
+      "country": "New Zealand",
+      "code": "7A1"
+    },
+    {
+      "name": "Modenas",
+      "country": "Malaysia",
+      "code": "PMN"
+    },
+    {
+      "name": "Neoplan",
+      "country": "Germany",
+      "code": "WAG"
+    },
+    {
+      "name": "Nissan",
+      "country": "Japan",
+      "code": "JN"
+    },
+    {
+      "name": "Nissan",
+      "country": "Thailand",
+      "code": "MNT"
+    },
+    {
+      "name": "Nissan",
+      "country": "Malaysia",
+      "code": "PN8"
+    },
+    {
+      "name": "Nissan",
+      "country": "United Kingdom",
+      "code": "SJN"
+    },
+    {
+      "name": "Nissan",
+      "country": "United States",
+      "code": "1N"
+    },
+    {
+      "name": "Nissan",
+      "country": "United States",
+      "code": "5N1"
+    },
+    {
+      "name": "Nissan",
+      "country": "Mexico",
+      "code": "3N"
+    },
+    {
+      "name": "Nissan",
+      "country": "Brazil",
+      "code": "94D"
+    },
+    {
+      "name": "NZ Transport Agency (post-2009)",
+      "country": "New Zealand",
+      "code": "7AT"
+    },
+    {
+      "name": "NZ Transport Agency (pre-2009)",
+      "country": "New Zealand",
+      "code": "7A8"
+    },
+    {
+      "name": "�AF",
+      "country": "Austria",
+      "code": "VA0"
+    },
+    {
+      "name": "Oldsmobile",
+      "country": "United State",
+      "code": "1G3"
+    },
+    {
+      "name": "Ontario Drive & Gear",
+      "country": "Canada",
+      "code": "2DG"
+    },
+    {
+      "name": "Opel Special Vehicles",
+      "country": "Germany",
+      "code": "W0SV"
+    },
+    {
+      "name": "Opel / Vauxhal",
+      "country": "Germany",
+      "code": "W0L"
+    },
+    {
+      "name": "Optare",
+      "country": "United Kingdom",
+      "code": "SAB"
+    },
+    {
+      "name": "Perodua",
+      "country": "Malaysia",
+      "code": "PM2"
+    },
+    {
+      "name": "Peugeot",
+      "country": "France",
+      "code": "VF3"
+    },
+    {
+      "name": "Peugeot",
+      "country": "Malaysia",
+      "code": "PNA"
+    },
+    {
+      "name": "Peugeot",
+      "country": "Argentina",
+      "code": "8AD"
+    },
+    {
+      "name": "Peugeot",
+      "country": "Brazil",
+      "code": 936
+    },
+    {
+      "name": "Piaggio",
+      "country": "Italy",
+      "code": "ZAP"
+    },
+    {
+      "name": "Pontiac",
+      "country": "Japan",
+      "code": "JF5"
+    },
+    {
+      "name": "Pontiac",
+      "country": "United States",
+      "code": "1GM"
+    },
+    {
+      "name": "Pontiac",
+      "country": "Canada",
+      "code": "2G2"
+    },
+    {
+      "name": "Pontiac",
+      "country": "Australia",
+      "code": "6G2"
+    },
+    {
+      "name": "Porsche",
+      "country": "Germany",
+      "code": "WP0"
+    },
+    {
+      "name": "Porsche SUV",
+      "country": "Germany",
+      "code": "WP1"
+    },
+    {
+      "name": "Proton",
+      "country": "Malaysia",
+      "code": "PL1"
+    },
+    {
+      "name": "Quattro",
+      "country": "Germany",
+      "code": "WUA"
+    },
+    {
+      "name": "Renault",
+      "country": "France",
+      "code": "VF1"
+    },
+    {
+      "name": "Renault",
+      "country": "France",
+      "code": "VF2"
+    },
+    {
+      "name": "Renault",
+      "country": "Argentina",
+      "code": "8A1"
+    },
+    {
+      "name": "Renault",
+      "country": "Brazil",
+      "code": "93Y"
+    },
+    {
+      "name": "Renault",
+      "country": "Colombia",
+      "code": "9FB"
+    },
+    {
+      "name": "Renault Trucks / Volvo",
+      "country": "France",
+      "code": "VF6"
+    },
+    {
+      "name": "Rover",
+      "country": "United Kingdom",
+      "code": "SAR"
+    },
+    {
+      "name": "Ruf Automobile",
+      "country": "Germany",
+      "code": "W09"
+    },
+    {
+      "name": "RWM Brazil",
+      "country": "Brazil",
+      "code": "94N"
+    },
+    {
+      "name": "Saab",
+      "country": "Finland",
+      "code": "YK1"
+    },
+    {
+      "name": "Saab",
+      "country": "Sweden",
+      "code": "YS3"
+    },
+    {
+      "name": "Saab",
+      "country": "Japan",
+      "code": "JF4"
+    },
+    {
+      "name": "Saab NEVS",
+      "country": "Sweden",
+      "code": "YTN"
+    },
+    {
+      "name": "SAIC General Motors",
+      "country": "China",
+      "code": "LSG"
+    },
+    {
+      "name": "SAIC GM Wuling",
+      "country": "China",
+      "code": "LZW"
+    },
+    {
+      "name": "SAIC Maxus",
+      "country": "China",
+      "code": "LSFA"
+    },
+    {
+      "name": "SAIC MG",
+      "country": "China",
+      "code": "LSJ"
+    },
+    {
+      "name": "SAIC Volkswagen",
+      "country": "China",
+      "code": "LSV"
+    },
+    {
+      "name": "Scania",
+      "country": "Brazil",
+      "code": "9BS"
+    },
+    {
+      "name": "Scania, Katrineholm",
+      "country": "Sweden",
+      "code": "YS4"
+    },
+    {
+      "name": "Scania, S�dert�lje",
+      "country": "Sweden",
+      "code": "YS2"
+    },
+    {
+      "name": "SEAT",
+      "country": "Spain",
+      "code": "VSS"
+    },
+    {
+      "name": "Skoda",
+      "country": "Czech Republic",
+      "code": "TMB"
+    },
+    {
+      "name": "Smart",
+      "country": "Germany",
+      "code": "WME"
+    },
+    {
+      "name": "Souza Ramos - Mitsubishi / Suzuki",
+      "country": "Brazil",
+      "code": "93X"
+    },
+    {
+      "name": "SsangYong",
+      "country": "South Korea",
+      "code": "KPT"
+    },
+    {
+      "name": "Subaru",
+      "country": "Malaysia",
+      "code": "PLP"
+    },
+    {
+      "name": "Subaru",
+      "country": "United States",
+      "code": "4S3"
+    },
+    {
+      "name": "Subaru",
+      "country": "United States",
+      "code": "4S4"
+    },
+    {
+      "name": "Subaru - Fuji Heavy Industries",
+      "country": "Japan",
+      "code": "JF1-JF3"
+    },
+    {
+      "name": "Suzuki",
+      "country": "Japan",
+      "code": "JS"
+    },
+    {
+      "name": "Suzuki",
+      "country": "Malaysia",
+      "code": "PPP"
+    },
+    {
+      "name": "Suzuki",
+      "country": "Hungary",
+      "code": "TSM"
+    },
+    {
+      "name": "Suzuki (motorcycles)",
+      "country": "Brazil",
+      "code": "9CD"
+    },
+    {
+      "name": "Talbot",
+      "country": "France",
+      "code": "VF4"
+    },
+    {
+      "name": "Tauro Sport Auto",
+      "country": "Spain",
+      "code": "VV9"
+    },
+    {
+      "name": "Tesla",
+      "country": "United States",
+      "code": "5YJ"
+    },
+    {
+      "name": "Toyota",
+      "country": "Japan",
+      "code": "JT"
+    },
+    {
+      "name": "Toyota",
+      "country": "South Africa",
+      "code": "AHT"
+    },
+    {
+      "name": "Toyota",
+      "country": "United Kingdom",
+      "code": "SB1"
+    },
+    {
+      "name": "Toyota",
+      "country": "France",
+      "code": "VNK"
+    },
+    {
+      "name": "Toyota",
+      "country": "Turkey",
+      "code": "NMT"
+    },
+    {
+      "name": "Toyota",
+      "country": "Malaysia",
+      "code": "PN1"
+    },
+    {
+      "name": "Toyota",
+      "country": "Canada",
+      "code": "2T"
+    },
+    {
+      "name": "Toyota",
+      "country": "United States",
+      "code": "4T"
+    },
+    {
+      "name": "Toyota",
+      "country": "United States",
+      "code": "5T"
+    },
+    {
+      "name": "Toyota",
+      "country": "Australia",
+      "code": "6T1"
+    },
+    {
+      "name": "Toyota",
+      "country": "New Zealand",
+      "code": "7A4"
+    },
+    {
+      "name": "Toyota",
+      "country": "Argentina",
+      "code": "8AJ"
+    },
+    {
+      "name": "Toyota",
+      "country": "Brazil",
+      "code": "9BR"
+    },
+    {
+      "name": "Triumph",
+      "country": "United Kingdom",
+      "code": "SAT"
+    },
+    {
+      "name": "Volkswagen",
+      "country": "Germany",
+      "code": "WVW"
+    },
+    {
+      "name": "Volkswagen",
+      "country": "Germany",
+      "code": "WVG"
+    },
+    {
+      "name": "Volkswagen",
+      "country": "South Africa",
+      "code": "AAV"
+    },
+    {
+      "name": "Volkswagen",
+      "country": "United States",
+      "code": "1VW"
+    },
+    {
+      "name": "Volkswagen",
+      "country": "Mexico",
+      "code": "3VW"
+    },
+    {
+      "name": "Volkswagen",
+      "country": "Argentina",
+      "code": "8AW"
+    },
+    {
+      "name": "Volkswagen",
+      "country": "Brazil",
+      "code": "9BW"
+    },
+    {
+      "name": "Volkswagen Commercial Vehicles",
+      "country": "Germany",
+      "code": "WV1"
+    },
+    {
+      "name": "Volkswagen Commercial Vehicles",
+      "country": "Germany",
+      "code": "WV2"
+    },
+    {
+      "name": "Volvo Buses",
+      "country": "Sweden",
+      "code": "YV3"
+    },
+    {
+      "name": "Volvo Cars",
+      "country": "Sweden",
+      "code": "YV3"
+    },
+    {
+      "name": "Volvo Cars",
+      "country": "Malaysia",
+      "code": "PNV"
+    },
+    {
+      "name": "Volvo Trucks",
+      "country": "Sweden",
+      "code": "YV2"
+    },
+    {
+      "name": "Volvo Trucks",
+      "country": "Brazil",
+      "code": "9BV"
+    },
+    {
+      "name": "VW Trucks / MAN",
+      "country": "Brazil",
+      "code": 953
+    },
+    {
+      "name": "Wallyscar",
+      "country": "Tunisia",
+      "code": "CL9"
+    },
+    {
+      "name": "Wielton",
+      "country": "Poland",
+      "code": "SUD"
+    },
+    {
+      "name": "Yamaha",
+      "country": "Japan",
+      "code": "JY"
+    },
+    {
+      "name": "Yamaha",
+      "country": "Brazil",
+      "code": "9C6"
+    },
+    {
+      "name": "Yamaha Hong Leong",
+      "country": "Malaysia",
+      "code": "PMV"
+    },
+    {
+      "name": "Yutong",
+      "country": "China",
+      "code": "LZY"
+    }
+  ]

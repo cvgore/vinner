@@ -1,0 +1,690 @@
+[
+    {
+        "start": "AA",
+        "end": "AH",
+        "type": "country",
+        "name": "South Africa"
+    },
+    {
+        "start": "AJ",
+        "end": "AK",
+        "type": "country",
+        "name": "Ivory Coast"
+    },
+    {
+        "start": "AL",
+        "end": "AM",
+        "type": "country",
+        "name": "Lesotho"
+    },
+    {
+        "start": "AN",
+        "end": "AP",
+        "type": "country",
+        "name": "Botswana"
+    },
+    {
+        "start": "AR",
+        "end": "AS",
+        "type": "country",
+        "name": "Namibia"
+    },
+    {
+        "start": "AT",
+        "end": "AU",
+        "type": "country",
+        "name": "Madagascar"
+    },
+    {
+        "start": "AV",
+        "end": "AW",
+        "type": "country",
+        "name": "Mauritius"
+    },
+    {
+        "start": "AX",
+        "end": "AY",
+        "type": "country",
+        "name": "Tunisia"
+    },
+    {
+        "start": "AZ",
+        "end": "A1",
+        "type": "country",
+        "name": "Cyprus"
+    },
+    {
+        "start": "A2",
+        "end": "A3",
+        "type": "country",
+        "name": "Zimbabwe"
+    },
+    {
+        "start": "A4",
+        "end": "A5",
+        "type": "country",
+        "name": "Mozambique"
+    },
+    {
+        "start": "A6",
+        "end": "A0",
+        "type": "continent",
+        "name": "Africa"
+    },
+    {
+        "start": "BA",
+        "end": "BB",
+        "type": "country",
+        "name": "Angola"
+    },
+    {
+        "start": "BC",
+        "end": "BE",
+        "type": "continent",
+        "name": "Africa"
+    },
+    {
+        "start": "BF",
+        "end": "BG",
+        "type": "country",
+        "name": "Kenya"
+    },
+    {
+        "start": "BH",
+        "end": "BK",
+        "type": "continent",
+        "name": "Africa"
+    },
+    {
+        "start": "BL",
+        "end": "BL",
+        "type": "country",
+        "name": "Nigeria"
+    },
+    {
+        "start": "BM",
+        "end": "BP",
+        "type": "continent",
+        "name": "Africa"
+    },
+    {
+        "start": "BR",
+        "end": "BR",
+        "type": "country",
+        "name": "Algeria"
+    },
+    {
+        "start": "BS",
+        "end": "B2",
+        "type": "continent",
+        "name": "Algeria"
+    },
+    {
+        "start": "B3",
+        "end": "B4",
+        "type": "country",
+        "name": "Libya"
+    },
+    {
+        "start": "B5",
+        "end": "B0",
+        "type": "continent",
+        "name": "Africa"
+    },
+    {
+        "start": "CA",
+        "end": "CB",
+        "type": "country",
+        "name": "Egypt"
+    },
+    {
+        "start": "CC",
+        "end": "CE",
+        "type": "continent",
+        "name": "Africa"
+    },
+    {
+        "start": "CF",
+        "end": "CG",
+        "type": "country",
+        "name": "Morocco"
+    },
+    {
+        "start": "CH",
+        "end": "CK",
+        "type": "continent",
+        "name": "Africa"
+    },
+    {
+        "start": "CL",
+        "end": "CM",
+        "type": "country",
+        "name": "Zambia"
+    },
+    {
+        "start": "CN",
+        "end": "C0",
+        "type": "continent",
+        "name": "Africa"
+    },
+    {
+        "start": "DA",
+        "end": "H0",
+        "type": "unassigned"
+    },
+    {
+        "start": "JA",
+        "end": "J0",
+        "type": "country",
+        "name": "Japan"
+    },
+    {
+        "start": "KA",
+        "end": "KE",
+        "type": "country",
+        "name": "Sri Lanka"
+    },
+    {
+        "start": "KF",
+        "end": "KK",
+        "type": "country",
+        "name": "Israel"
+    },
+    {
+        "start": "KL",
+        "end": "KR",
+        "type": "country",
+        "name": "South Korea"
+    },
+    {
+        "start": "KS",
+        "end": "K0",
+        "type": "country",
+        "name": "Kazakhstan"
+    },
+    {
+        "start": "LA",
+        "end": "L0",
+        "type": "country",
+        "name": "China"
+    },
+    {
+        "start": "MA",
+        "end": "ME",
+        "type": "country",
+        "name": "India"
+    },
+    {
+        "start": "MF",
+        "end": "MK",
+        "type": "country",
+        "name": "Indonesia"
+    },
+    {
+        "start": "ML",
+        "end": "MR",
+        "type": "country",
+        "name": "Thailand"
+    },
+    {
+        "start": "MS",
+        "end": "MS",
+        "type": "country",
+        "name": "Myanmar"
+    },
+    {
+        "start": "MT",
+        "end": "M0",
+        "type": "continent",
+        "name": "Asia"
+    },
+    {
+        "start": "NA",
+        "end": "NE",
+        "type": "country",
+        "name": "Iran"
+    },
+    {
+        "start": "NF",
+        "end": "NK",
+        "type": "country",
+        "name": "Pakistan"
+    },
+    {
+        "start": "NL",
+        "end": "NR",
+        "type": "country",
+        "name": "Turkey"
+    },
+    {
+        "start": "NS",
+        "end": "N0",
+        "type": "country",
+        "name": "Asia"
+    },
+    {
+        "start": "PA",
+        "end": "PE",
+        "type": "country",
+        "name": "Philippines"
+    },
+    {
+        "start": "PF",
+        "end": "PK",
+        "type": "country",
+        "name": "Singapore"
+    },
+    {
+        "start": "PL",
+        "end": "PR",
+        "type": "country",
+        "name": "Malaysia"
+    },
+    {
+        "start": "PS",
+        "end": "P0",
+        "type": "continent",
+        "name": "Asia"
+    },
+    {
+        "start": "RA",
+        "end": "RE",
+        "type": "country",
+        "name": "United Arab Emirates"
+    },
+    {
+        "start": "RF",
+        "end": "RK",
+        "type": "country",
+        "name": "Taiwan"
+    },
+    {
+        "start": "RL",
+        "end": "RR",
+        "type": "country",
+        "name": "Vietnam"
+    },
+    {
+        "start": "RS",
+        "end": "R0",
+        "type": "country",
+        "name": "Saudi Arabia"
+    },
+    {
+        "start": "SA",
+        "end": "SM",
+        "type": "country",
+        "name": "United Kingdom"
+    },
+    {
+        "start": "SN",
+        "end": "ST",
+        "type": "country",
+        "name": "East Germany"
+    },
+    {
+        "start": "SU",
+        "end": "SZ",
+        "type": "country",
+        "name": "Poland"
+    },
+    {
+        "start": "S1",
+        "end": "S4",
+        "type": "country",
+        "name": "Latvia"
+    },
+    {
+        "start": "S5",
+        "end": "S0",
+        "type": "continent",
+        "name": "Europe"
+    },
+    {
+        "start": "TA",
+        "end": "TH",
+        "type": "country",
+        "name": "Switzerland"
+    },
+    {
+        "start": "TJ",
+        "end": "TM",
+        "type": "country",
+        "name": "Czech Republic"
+    },
+    {
+        "start": "TR",
+        "end": "TV",
+        "type": "country",
+        "name": "Hungary"
+    },
+    {
+        "start": "TW",
+        "end": "T1",
+        "type": "country",
+        "name": "Portugal"
+    },
+    {
+        "start": "T2",
+        "end": "UG",
+        "type": "continent",
+        "name": "Europe"
+    },
+    {
+        "start": "UH",
+        "end": "UM",
+        "type": "country",
+        "name": "Denmark"
+    },
+    {
+        "start": "UN",
+        "end": "UT",
+        "type": "country",
+        "name": "Ireland"
+    },
+    {
+        "start": "UU",
+        "end": "UZ",
+        "type": "country",
+        "name": "Romania"
+    },
+    {
+        "start": "U1",
+        "end": "U4",
+        "type": "continent",
+        "name": "Europe"
+    },
+    {
+        "start": "U5",
+        "end": "U7",
+        "type": "country",
+        "name": "Slovakia"
+    },
+    {
+        "start": "U8",
+        "end": "U0",
+        "type": "continent",
+        "name": "Europe"
+    },
+    {
+        "start": "VA",
+        "end": "VE",
+        "type": "country",
+        "name": "Austria"
+    },
+    {
+        "start": "VF",
+        "end": "VR",
+        "type": "country",
+        "name": "France"
+    },
+    {
+        "start": "VS",
+        "end": "VW",
+        "type": "country",
+        "name": "Spain"
+    },
+    {
+        "start": "VX",
+        "end": "V2",
+        "type": "country",
+        "name": "Serbia"
+    },
+    {
+        "start": "V3",
+        "end": "V5",
+        "type": "country",
+        "name": "Croatia"
+    },
+    {
+        "start": "V6",
+        "end": "V0",
+        "type": "country",
+        "name": "Estonia"
+    },
+    {
+        "start": "WA",
+        "end": "W0",
+        "type": "country",
+        "name": "Germany"
+    },
+    {
+        "start": "XA",
+        "end": "XE",
+        "type": "country",
+        "name": "Bulgaria"
+    },
+    {
+        "start": "XF",
+        "end": "XK",
+        "type": "country",
+        "name": "Greece"
+    },
+    {
+        "start": "XL",
+        "end": "XR",
+        "type": "country",
+        "name": "Netherlands"
+    },
+    {
+        "start": "XS",
+        "end": "XW",
+        "type": "country",
+        "name": "USSR"
+    },
+    {
+        "start": "XX",
+        "end": "X2",
+        "type": "country",
+        "name": "Luxembourg"
+    },
+    {
+        "start": "X3",
+        "end": "X0",
+        "type": "country",
+        "name": "Russia"
+    },
+    {
+        "start": "YA",
+        "end": "YE",
+        "type": "country",
+        "name": "Belgium"
+    },
+    {
+        "start": "YF",
+        "end": "YK",
+        "type": "country",
+        "name": "Finland"
+    },
+    {
+        "start": "YL",
+        "end": "YR",
+        "type": "country",
+        "name": "Malta"
+    },
+    {
+        "start": "YS",
+        "end": "YW",
+        "type": "country",
+        "name": "Sweden"
+    },
+    {
+        "start": "YX",
+        "end": "Y2",
+        "type": "country",
+        "name": "Norway"
+    },
+    {
+        "start": "Y3",
+        "end": "Y5",
+        "type": "country",
+        "name": "Belarus"
+    },
+    {
+        "start": "Y6",
+        "end": "Y0",
+        "type": "country",
+        "name": "Ukraine"
+    },
+    {
+        "start": "ZA",
+        "end": "ZR",
+        "type": "country",
+        "name": "Italy"
+    },
+    {
+        "start": "ZS",
+        "end": "ZW",
+        "type": "continent",
+        "name": "Europe"
+    },
+    {
+        "start": "ZX",
+        "end": "Z2",
+        "type": "country",
+        "name": "Slovenia"
+    },
+    {
+        "start": "Z3",
+        "end": "Z5",
+        "type": "country",
+        "name": "Lithuania"
+    },
+    {
+        "start": "Z6",
+        "end": "Z0",
+        "type": "continent",
+        "name": "Europe"
+    },
+    {
+        "start": "1A",
+        "end": "10",
+        "type": "country",
+        "name": "United States of America"
+    },
+    {
+        "start": "2A",
+        "end": "20",
+        "type": "country",
+        "name": "Canada"
+    },
+    {
+        "start": "3A",
+        "end": "30",
+        "type": "country",
+        "name": "Mexico"
+    },
+    {
+        "start": "4A",
+        "end": "50",
+        "type": "country",
+        "name": "United States of America"
+    },
+    {
+        "start": "6A",
+        "end": "6W",
+        "type": "country",
+        "name": "Australia"
+    },
+    {
+        "start": "6X",
+        "end": "60",
+        "type": "continent",
+        "name": "Oceania"
+    },
+    {
+        "start": "7A",
+        "end": "7E",
+        "type": "country",
+        "name": "New Zealand"
+    },
+    {
+        "start": "7F",
+        "end": "70",
+        "type": "continent",
+        "name": "Oceania"
+    },
+    {
+        "start": "8A",
+        "end": "8E",
+        "type": "country",
+        "name": "Argentina"
+    },
+    {
+        "start": "8F",
+        "end": "8K",
+        "type": "country",
+        "name": "Chile"
+    },
+    {
+        "start": "8L",
+        "end": "8R",
+        "type": "country",
+        "name": "Ecuador"
+    },
+    {
+        "start": "8S",
+        "end": "8W",
+        "type": "country",
+        "name": "Peru"
+    },
+    {
+        "start": "8X",
+        "end": "82",
+        "type": "country",
+        "name": "Venezuela"
+    },
+    {
+        "start": "83",
+        "end": "80",
+        "type": "continent",
+        "name": "South America"
+    },
+    {
+        "start": "9A",
+        "end": "9E",
+        "type": "country",
+        "name": "Brazil"
+    },
+    {
+        "start": "9F",
+        "end": "9K",
+        "type": "country",
+        "name": "Colombia"
+    },
+    {
+        "start": "9L",
+        "end": "9R",
+        "type": "country",
+        "name": "Paraguay"
+    },
+    {
+        "start": "9S",
+        "end": "9W",
+        "type": "country",
+        "name": "Uruguay"
+    },
+    {
+        "start": "9X",
+        "end": "92",
+        "type": "country",
+        "name": "Trinidad & Tobago"
+    },
+    {
+        "start": "93",
+        "end": "99",
+        "type": "country",
+        "name": "Brazil"
+    },
+    {
+        "start": "90",
+        "end": "09",
+        "type": "continent",
+        "name": "South America"
+    },
+    {
+        "start": "00",
+        "end": "00",
+        "type": "unassigned"
+    }
+]
