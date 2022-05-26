@@ -5,30 +5,37 @@
   import Header from "./elements/Header.svelte";
   import { database, vinValid } from "./store";
   import Loader from "./elements/Loader.svelte";
-import { getVinCharsRange } from "./vin/utils";
+  import { getVinCharsRange } from "./vin/utils";
 
   const loadAppHndl = loadApp();
 
-  async function loadApp() {
-    if (await $database.manufacturers.count() === 0) {
-      const data = await fetch('/data/manufacturers.json');
+  let statusText: string = '';
 
+  async function loadApp() {
+    if ((await $database.manufacturers.count()) === 0) {
+      statusText = 'loading manufacturers...';
+      const data = await fetch("/data/manufacturers.json");
+
+      statusText = 'parsing manufacturers...';
       await $database.manufacturers.bulkPut(await data.json());
     }
 
-    if (await $database.vinCountryCodes.count() === 0) {
-      const data = await fetch('/data/vinCountryCodes.json');
-      const valuesGenerator = async function*() {
+    if ((await $database.vinCountryCodes.count()) === 0) {
+      statusText = 'loading VIN country codes...';
+      const data = await fetch("/data/vinCountryCodes.json");
+
+      statusText = 'parsing VIN country codes...';
+      const valuesGenerator = async function* () {
         for (const value of await data.json()) {
           for (const code of getVinCharsRange(value.start, value.end)) {
             yield {
               code,
               type: value.type,
-              name: value.name || '',
+              name: value.name || "",
             };
           }
         }
-      }
+      };
 
       for await (const value of valuesGenerator()) {
         await $database.vinCountryCodes.put(value);
@@ -42,7 +49,7 @@ import { getVinCharsRange } from "./vin/utils";
 {#await loadAppHndl}
   <main>
     <figure>
-      <Loader />
+      <Loader bind:statusText={statusText}/>
     </figure>
   </main>
 {:then _}
@@ -58,6 +65,10 @@ import { getVinCharsRange } from "./vin/utils";
 
 <style>
   /* BASE / RESET */
+  :global(*::before, *::after) {
+    box-sizing: border-box;
+  }
+  
   :global(:root) {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
       Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
@@ -83,7 +94,7 @@ import { getVinCharsRange } from "./vin/utils";
   }
 
   :global(a) {
-    color: var(--color-main);
+    color: var(--color-star);
   }
 
   main {
@@ -111,8 +122,8 @@ import { getVinCharsRange } from "./vin/utils";
     :global(:root) {
       --color-fore: #fff;
       --color-back: #000;
-      --color-main: #bcffa1;
-      --color-star: #9ed887;
+      --color-main: #65d13a;
+      --color-star: #36be00;
     }
   }
 
@@ -122,8 +133,8 @@ import { getVinCharsRange } from "./vin/utils";
     :global(:root) {
       --color-back: #fff;
       --color-fore: #000;
-      --color-main: #bcffa1;
-      --color-star: #9ed887;
+      --color-main: #65d13a;
+      --color-star: #258300;
     }
   }
 </style>

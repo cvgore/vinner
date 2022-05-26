@@ -22,7 +22,7 @@
     <VinInput />
     <button on:click={startValidation}>{$decodeVinButtonText}</button>
     {#if $showValidationMsg && !$vinValid}
-        <MessageBox>{$vinValidationMsg}</MessageBox>
+        <MessageBox style="error">{$vinValidationMsg}</MessageBox>
     {/if}
 </section>
 
@@ -40,7 +40,11 @@
         text-transform: uppercase;
     }
 
-    button:active, button:focus {
+    button:active {
+        outline-offset: 2px;
+    }
+
+    button:focus:not(:active) {
         background: var(--color-star);
     }
 

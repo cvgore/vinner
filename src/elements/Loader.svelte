@@ -1,6 +1,30 @@
-<span></span>
+<script lang="ts">
+    import MessageBox from "./MessageBox.svelte";
+
+    export let statusText: string | undefined;
+</script>
+
+<section>
+    <span />
+    <hr />
+    {#if statusText}
+        <MessageBox style="info">{statusText}</MessageBox>
+    {/if}
+</section>
 
 <style>
+    section {
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    hr {
+        border: none;
+        margin: 1rem 0;
+    }
+
     span {
         display: block;
         width: 2rem;

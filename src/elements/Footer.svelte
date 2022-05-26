@@ -10,9 +10,15 @@
 <style>
     footer {
         align-self: center;
-        font-size: 0.75rem;
-        padding: 0.5rem 0;
+        font-size: .85rem;
+        padding: .5rem 0;
         font-weight: 700;
+    }
+
+    @media (min-width: 480px) {
+        footer {
+            font-size: .75rem;
+        }
     }
 
     abbr {

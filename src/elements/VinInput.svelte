@@ -25,7 +25,7 @@
     font-weight: 700;
     line-height: 1;
     border-bottom: 2px solid var(--color-main);
-    color: #fff;
+    color: var(--color-back);
     padding: .25rem .66rem;
     background: var(--color-star);
     margin-left: .25rem;

@@ -1,5 +1,11 @@
+<script lang="ts">
+    export let style: 'error' | 'info' = 'info';
+</script>
+
 <section>
-    <span>!</span>
+    {#if style === 'error'}
+        <span>!</span>
+    {/if}
     <slot />
 </section>
 
