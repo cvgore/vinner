@@ -1,15 +1,58 @@
 <script lang="ts">
-  import Footer from "./lib/Footer.svelte";
-  import VinValidation from "./lib/VinValidation.svelte";
+  import Footer from "./elements/Footer.svelte";
+  import VinData from "./elements/VinData.svelte";
+  import VinValidation from "./elements/VinValidation.svelte";
+  import Header from "./elements/Header.svelte";
+  import { database, vinValid } from "./store";
+  import Loader from "./elements/Loader.svelte";
+import { getVinCharsRange } from "./vin/utils";
+
+  const loadAppHndl = loadApp();
+
+  async function loadApp() {
+    if (await $database.manufacturers.count() === 0) {
+      const data = await fetch('/data/manufacturers.json');
+
+      await $database.manufacturers.bulkPut(await data.json());
+    }
+
+    if (await $database.vinCountryCodes.count() === 0) {
+      const data = await fetch('/data/vinCountryCodes.json');
+      const valuesGenerator = async function*() {
+        for (const value of await data.json()) {
+          for (const code of getVinCharsRange(value.start, value.end)) {
+            yield {
+              code,
+              type: value.type,
+              name: value.name || '',
+            };
+          }
+        }
+      }
+
+      for await (const value of valuesGenerator()) {
+        await $database.vinCountryCodes.put(value);
+      }
+    }
+  }
 </script>
 
-<header>
-  <h1>🚗 VINn&epsilon;r</h1>
-</header>
+<Header />
 
-<main>
-  <VinValidation />
-</main>
+{#await loadAppHndl}
+  <main>
+    <figure>
+      <Loader />
+    </figure>
+  </main>
+{:then _}
+  <main>
+    <VinValidation />
+    {#if $vinValid}
+      <VinData />
+    {/if}
+  </main>
+{/await}
 
 <Footer />
 
@@ -35,6 +78,8 @@
     display: flex;
     flex-flow: column nowrap;
     min-height: 100vh;
+    padding: 0 1rem;
+    position: relative;
   }
 
   :global(a) {
@@ -43,30 +88,20 @@
 
   main {
     flex: 1;
-    align-self: center;
     padding: 2rem 0;
     width: 100%;
   }
 
-  header {
-    align-self: center;
-  }
-
-  h1 {
-    color: var(--color-main);
-    font-size: 3rem;
-    font-weight: 100;
-    line-height: 1.1;
-    margin: 1rem auto;
-    max-width: 14rem;
+  figure {
+    display: flex;
+    justify-content: center;
   }
 
   /* MOBILE */
 
   @media (min-width: 480px) {
-    h1 {
-      max-width: none;
-      font-size: 4rem;
+    :global(#app) {
+      padding: 0 2rem;
     }
   }
 
@@ -87,7 +122,7 @@
     :global(:root) {
       --color-back: #fff;
       --color-fore: #000;
-      --color-main: #e0ee22;
+      --color-main: #bcffa1;
       --color-star: #9ed887;
     }
   }

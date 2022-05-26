@@ -200,24 +200,24 @@
       "code": "1C"
     },
     {
-      "name": "Citro�n",
+      "name": "Citroen",
       "country": "France",
       "code": "VF7"
     },
     {
-      "name": "Citro�n",
+      "name": "Citroen",
       "country": "Spain",
       "code": "VS7"
     },
     {
-      "name": "Citro�n",
+      "name": "Citroen",
       "country": "Argentina",
       "code": "8BC"
     },
     {
-      "name": "Citro�n",
+      "name": "Citroen",
       "country": "Brazil",
-      "code": 935
+      "code": "935"
     },
     {
       "name": "Continental",
@@ -270,7 +270,7 @@
       "code": "LGB"
     },
     {
-      "name": "Dongfeng Peugeot-Citro�n",
+      "name": "Dongfeng Peugeot-Citroen",
       "country": "China",
       "code": "LDC"
     },
@@ -702,7 +702,7 @@
     {
       "name": "Jeep",
       "country": "Brazil",
-      "code": 988
+      "code": "988"
     },
     {
       "name": "Johnston sweeper (Bucher)",
@@ -877,7 +877,7 @@
     {
       "name": "Mercedes Benz",
       "country": "United States",
-      "code": 55
+      "code": "55"
     },
     {
       "name": "Mercedes Benz",
@@ -1047,7 +1047,7 @@
     {
       "name": "Peugeot",
       "country": "Brazil",
-      "code": 936
+      "code": "936"
     },
     {
       "name": "Piaggio",
@@ -1422,7 +1422,7 @@
     {
       "name": "VW Trucks / MAN",
       "country": "Brazil",
-      "code": 953
+      "code": "953"
     },
     {
       "name": "Wallyscar",

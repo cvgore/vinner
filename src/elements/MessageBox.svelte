@@ -1,6 +1,6 @@
 <section>
     <span>!</span>
-    <slot></slot>
+    <slot />
 </section>
 
 <style>
@@ -13,6 +13,7 @@
         display: flex;
         flex-direction: row nowrap;
         align-items: center;
+        background: var(--color-back-contrast);
     }
 
     span {
@@ -20,5 +21,6 @@
         margin-right: 1rem;
         font-weight: 900;
         color: var(--color-main);
+        user-select: none;
     }
 </style>

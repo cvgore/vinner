@@ -3,7 +3,8 @@
     &bull;
     🐛 <a href="https://github.com/cvgore/vinner" target="_blank" rel="noopener noreferer">repository</a>
     &bull;
-    ⏲️ <abbr title="{__APP_BUILT_AT__}">{__APP_VERSION__}</abbr>
+    <!-- svelte-ignore missing-declaration vite will inject/replace __APP_* with concrete values -->
+    ⏲️ <abbr title="built at {new Date(__APP_BUILT_AT__).toUTCString()}">{__APP_VERSION__}</abbr>
 </footer>
 
 <style>

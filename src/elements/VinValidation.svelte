@@ -1,35 +1,28 @@
 <script lang="ts">
     import MessageBox from "./MessageBox.svelte";
-
     import VinInput from "./VinInput.svelte";
+    import {
+        showValidationMsg,
+        vinValid,
+        vinValidationMsg,
+        vin,
+        decodeVinButtonText,
+    } from "./../store";
 
-    let vin: string;
-    let invalidReason: string | null;
+    vin.subscribe((_) => {
+        showValidationMsg.set(false);
+    });
 
-    function invalid(reason) {
-        invalidReason = reason;
-        return false;
-    }
-
-    function valid() {
-        invalidReason = null;
-        return true;
-    }
-
-    function validate() {
-        if (!vin || vin.length !== 17) {
-            return invalid("VIN number must be 17 characters long");
-        }
-
-        return valid();
+    function startValidation() {
+        showValidationMsg.set(true);
     }
 </script>
 
 <section>
-    <VinInput bind:vin />
-    <button on:click={validate}>Cast unknown spell</button>
-    {#if invalidReason}
-        <MessageBox>{invalidReason}</MessageBox>
+    <VinInput />
+    <button on:click={startValidation}>{$decodeVinButtonText}</button>
+    {#if $showValidationMsg && !$vinValid}
+        <MessageBox>{$vinValidationMsg}</MessageBox>
     {/if}
 </section>
 
@@ -47,7 +40,7 @@
         text-transform: uppercase;
     }
 
-    button:active {
+    button:active, button:focus {
         background: var(--color-star);
     }
 

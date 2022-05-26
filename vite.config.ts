@@ -7,5 +7,5 @@ export default defineConfig({
   define: {
     '__APP_VERSION__': JSON.stringify(process.env.npm_package_version),
     '__APP_BUILT_AT__': JSON.stringify(new Date()),
-  }
+  },
 })
